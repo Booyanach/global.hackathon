@@ -1,0 +1,22 @@
+{
+    "teamName": "Super Pirate Ninjas",
+    "members": [
+        {
+            "name": "Gonçalo Vieira",
+            "twitter": "booyanach",
+            "koding": "booyanach",
+            "location": "Canterbury, UK",
+            "lead": true
+        },{
+            "name": "Luis Telo",
+            "twitter": "booyanach",
+            "koding": "booyanach",
+            "location": "Canterbury, UK"
+        },{
+            "name": "Laura Nóbrega",
+            "twitter": "booyanach",
+            "koding": "booyanach",
+            "location": "Faro, PT"
+        },
+    ]
+}
